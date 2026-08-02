@@ -1,0 +1,10 @@
+{
+  "name": "正社員求人くらべ",
+  "short_name": "正社員求人",
+  "description": "正社員求人の割合を都道府県と年度で比較する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f4f1",
+  "theme_color": "#20364a",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

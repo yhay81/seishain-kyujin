@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "seishain-kyujin",
+  "main": "src/worker.tsx",
+  "compatibility_date": "2026-07-29",
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [{ "pattern": "seishain-kyujin.yhay81.com", "custom_domain": true }],
+  "triggers": { "crons": ["31 22 * * *"] },
+  "observability": { "enabled": true },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "seishain-kyujin",
+      "database_id": "0b470762-0e20-409e-99e4-cdb09ee1998f",
+      "migrations_dir": "migrations",
+    },
+  ],
+  "assets": { "directory": "./public", "binding": "ASSETS" },
+}

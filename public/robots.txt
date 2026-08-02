@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seishain-kyujin.yhay81.com/sitemap.xml

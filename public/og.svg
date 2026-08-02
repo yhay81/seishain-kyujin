@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f2f4f1"/>
+  <path d="M0 540h1200" stroke="#cfd6d2" stroke-width="2"/>
+  <g transform="translate(70 72)">
+    <rect width="610" height="430" fill="#e2e8e5" stroke="#93a09b" stroke-width="2"/>
+    <rect x="44" y="56" width="390" height="270" fill="#fffefd" stroke="#203f56" stroke-width="5"/>
+    <text x="76" y="104" fill="#53626b" font-family="sans-serif" font-size="22" font-weight="700">一般求人・パート含む</text>
+    <text x="76" y="148" fill="#182936" font-family="sans-serif" font-size="31" font-weight="800">27,576,204</text>
+    <path d="M76 184h292M76 210h228" stroke="#cfd6d2" stroke-width="10"/>
+    <rect x="190" y="230" width="340" height="165" fill="#fff5ee" stroke="#d8703d" stroke-width="5"/>
+    <text x="220" y="278" fill="#76513f" font-family="sans-serif" font-size="22" font-weight="700">うち正社員</text>
+    <text x="220" y="324" fill="#182936" font-family="sans-serif" font-size="31" font-weight="800">13,657,110</text>
+    <path d="M220 355h238" stroke="#e4bda7" stroke-width="9"/>
+    <circle cx="505" cy="105" r="66" fill="#fffefd" stroke="#d6dcda" stroke-width="14"/>
+    <path d="M505 39a66 66 0 0 1 2 132" fill="none" stroke="#d8703d" stroke-linecap="round" stroke-width="14"/>
+    <text x="505" y="115" fill="#182936" font-family="sans-serif" font-size="25" font-weight="800" text-anchor="middle">49.5%</text>
+  </g>
+  <g transform="translate(750 136)">
+    <text fill="#2b6384" font-family="sans-serif" font-size="19" font-weight="800" letter-spacing="2">2011—2025年度</text>
+    <text y="76" fill="#182936" font-family="sans-serif" font-size="48" font-weight="800">正社員求人くらべ</text>
+    <text y="132" fill="#53626b" font-family="sans-serif" font-size="25">都道府県別の割合と元件数</text>
+    <g transform="translate(0 190)" fill="none" stroke="#2b6384" stroke-width="5">
+      <path d="M0 120L50 96l50 8 50-48 50 23 50-52 50 14 50-26"/>
+      <path d="M0 136h300" stroke="#cfd6d2" stroke-width="3"/>
+      <circle cx="300" cy="15" r="8" fill="#d8703d" stroke="#fffefd"/>
+    </g>
+    <text y="372" fill="#53626b" font-family="sans-serif" font-size="19">全国・47労働局 × 3指標 × 15年度</text>
+  </g>
+</svg>
